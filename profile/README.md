@@ -6,9 +6,9 @@
 
 This organization hosts official packs of anonymizers for the DbToolsBundle.
 
-You will also find here a [template-pack](https://github.com/DbToolsBundle/pack-template) to create your own pack of anonymizers and a [meta-repository](https://github.com/DbToolsBundle/packs-status) that runs a CI for all those packs.
+You will also find here a [template-pack](https://github.com/DbToolsBundle/pack-template) to create your own pack of anonymizers and a [meta-repository](https://github.com/DbToolsBundle/packs-status) that runs a CI for all official packs.
 
-Learn more reading [the DbToolsBundle documentation](https://dbtoolsbundle.readthedocs.io/) on Read the Docs or looking at its code on its [own repository](https://github.com/makinacorpus/DbToolsBundle)
+Learn more reading [the DbToolsBundle documentation](https://dbtoolsbundle.readthedocs.io/) on Read the Docs or looking at its code on its [own repository](https://github.com/makinacorpus/DbToolsBundle).
 
 ---
 
