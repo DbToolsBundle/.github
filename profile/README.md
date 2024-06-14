@@ -1,7 +1,7 @@
 # DbToolsBundle Organization
 
 <p align="center" style="margin: auto">
-    <img style="height:160px;" src="./logo.png">
+    <img style="height:160px;" src="../logo.png">
 </p>
 
 This organization hosts official packs of anonymizers for the DbToolsBundle.
@@ -15,5 +15,5 @@ Learn more reading [the DbToolsBundle documentation](https://dbtoolsbundle.readt
 Proudly provided by:
 
 <a href="https://makina-corpus.com/" target="_blank" title="Makina Corpus">
-  <img style="margin: auto; max-width: 100%;" src="./makina.svg">
+  <img style="margin: auto; max-width: 100%;" src="../makina.svg">
 </a>
